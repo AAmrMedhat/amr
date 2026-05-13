@@ -1,0 +1,13 @@
+{
+  "name": "Remix: Noor",
+  "description": "A modern Islamic prayer companion with accurate prayer times, guidance, and a smart Qiyam Al-Layl alarm system.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "Prayer Times",
+    "Qiyam Alarm",
+    "Islamic Guidance"
+  ]
+}
